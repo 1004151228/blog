@@ -13,3 +13,6 @@
 
 [布尔前缀的艺术——别再把变量命名为 "Flag" 了](https://github.com/1004151228/blog/issues/4)
 
+### 读书笔记
+
+[《沟通的方法》读书笔记](https://github.com/1004151228/blog/issues/21)
