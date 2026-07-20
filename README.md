@@ -16,3 +16,6 @@
 ### 读书笔记
 
 [《沟通的方法》读书笔记](https://github.com/1004151228/blog/issues/21)
+
+### AI相关
+[AI 相关知识 · 大白话版](https://github.com/1004151228/blog/issues/27)
